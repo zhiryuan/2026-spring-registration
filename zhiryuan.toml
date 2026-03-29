@@ -1,0 +1,9 @@
+[about]
+name = "zhiyuan"
+avatar = "zhiyuan.jpg"
+hobbies = ["💻", "🏸", "🏓", "🎹", "🎨"]
+skills = ["C++", "Python"]
+
+[social]
+github = "zhiryuan"
+website = ""
